@@ -44,21 +44,21 @@ A program célja egy jól átlátható megjelenítése a tárolt tételeknek és
 *	További attributumokhoz meglévő elem törlése
 *	Megjegyzés írása egy tételhez
 
-![](docs/images/esetdiagram.png)
+![](esetdiagram.png)
 
 
 **Új kategória létrehozása:**
-![](docs/images/regisztracio_esetdiagram.png)
+![](regisztracio_esetdiagram.png)
 
 **Felhasználó regisztrálása:**
-![](docs/images/user_registration.png)
+![](user_registration.png)
 
 **Tétel hozzáadása:**
-![](docs/images/tetel_hozzaadas.png)
+![](tetel_hozzaadas.png)
 
 
 ###	Adatmodellek
-![](docs/images/dbmodel.png)
+![](dbmodel.png)
 
 
 ###	Szakterületi fogalomjegyzés
@@ -114,7 +114,7 @@ A program célja egy jól átlátható megjelenítése a tárolt tételeknek és
 
 ###	Oldalvázlatok:
 **Főoldal - belépés és regisztráció**
-![](docs/images/index.jpg)
+![](index.jpg)
 
 **Listázó oldal**
-![](docs/images/item_list.jpg)
+![](item_list.jpg)
