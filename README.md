@@ -48,7 +48,7 @@ A program célja egy jól átlátható megjelenítése a tárolt tételeknek és
 
 
 **Új kategória létrehozása:**
-![](esetdiagram.png)
+![](uj_kategoria.png)
 
 **Felhasználó regisztrálása:**
 ![](user_registration.png)
